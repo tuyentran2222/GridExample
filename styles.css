@@ -3,9 +3,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
-.layout {
+/*Commit 3**/
+/* .layout {
     display: grid;
     grid-gap: 30px;
     padding: 30px;
@@ -15,7 +17,7 @@
     "h1 h1 h2 h3"
     "h4 h5 h2 h3"
     "h4 h5 h6 h6";
-}
+} */
 
 .layout-img {
     object-fit: cover;
